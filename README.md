@@ -1,2 +1,2 @@
 # ReactRedux
-Redux Integration in React
+vereinfachte Redux Integration in React
